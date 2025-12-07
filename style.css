@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background: #f3f3f3;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+}
+
+nav a, header a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 5px;
+}
